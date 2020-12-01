@@ -1,0 +1,41 @@
+	body
+		{
+		margin: 0px;
+		padding: 0px;
+
+	}
+	.square
+		{
+		width:200px;
+		height: 200px;
+		background-color:indigo;
+
+
+	}
+	.rectangle{
+		background-color:hotpink;
+		width:300px;
+		height:150px;
+
+
+	}
+	.circle{
+	background-color:indianred;
+	height:200px;
+	width:200px;
+	border-radius:50%;
+	}
+	.oval{
+		background-color:goldenrod;
+		width:200px;
+		height:100px;
+		border-radius:100px/50px;
+
+	}
+	.trinagleup{
+		width:0;
+		height:0;
+		border-bottom: 200px solid ridge;
+		border-left:100px solid inherit;
+		border-right:100px solid inherit;
+	}
